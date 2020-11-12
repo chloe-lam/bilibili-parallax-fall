@@ -15,3 +15,7 @@
 在线demo
 
 [http://chloe-lam.github.io/bilibili-parallax-fall](http://chloe-lam.github.io/bilibili-parallax-fall)
+
+b站教学视频
+
+[https://www.bilibili.com/video/BV14V411a7Rq](https://www.bilibili.com/video/BV14V411a7Rq)
