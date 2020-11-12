@@ -2,7 +2,7 @@
   "name": "bilibili-parallax-fall",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://chloe-lam.github.io/bilibili-parallax-fall",
+  "homepage": "https://chloe-lam.github.io/bilibili-parallax-fall",
   "author": "chloe lam",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
